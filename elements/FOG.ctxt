@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=FOG
+comment0.text=\r\n\ The\ fog/light\ class\r\n\ I\ used\ photoshop\ to\ make\ the\ image,\ just\ a\ radial\ gradient\ from\ black\ to\ transparent\r\n\ \ \r\n
+comment1.params=
+comment1.target=FOG()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moveRight()
+comment4.params=
+comment4.target=void\ moveLeft()
+comment5.params=
+comment5.target=void\ moveUp()
+comment6.params=
+comment6.target=void\ moveDown()
+numComments=7

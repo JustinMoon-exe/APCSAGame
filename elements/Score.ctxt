@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Score
+comment0.text=\r\nSends\ the\ time\ too\ the\ endscreen\ world\r\nDoes\ not\ do\ much\ else\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=int\ setScore()
+comment1.text=\r\n\ Score\ is\ the\ time\ taken\ in\ millis\ divided\ by\ 100,\ giving\ a\ nice\ biggish\ number\ to\ work\ with\r\n\ \r\n
+numComments=2

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=
+comment1.target=Enemy()
+comment1.text=\r\n\ Sets\ the\ wall\ class\ as\ a\ blocking\ class\r\n
+comment10.params=
+comment10.target=boolean\ canMoveDown()
+comment11.params=c
+comment11.target=void\ setBlockingClasses(java.lang.Class[])
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moveRight()
+comment4.params=
+comment4.target=void\ moveLeft()
+comment5.params=
+comment5.target=void\ moveUp()
+comment6.params=
+comment6.target=void\ moveDown()
+comment7.params=
+comment7.target=boolean\ canMoveLeft()
+comment8.params=
+comment8.target=boolean\ canMoveRight()
+comment9.params=
+comment9.target=boolean\ canMoveUp()
+numComments=12

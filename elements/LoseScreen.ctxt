@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LoseScreen
+comment0.text=\r\n\ Player\ gets\ here\ after\ they\ get\ hit\ by\ an\ enemy\ cell\r\n\ \r\n\ @author\ (Justin)\ \r\n\ @version\ today)\r\n
+comment1.params=
+comment1.target=LoseScreen()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ StartScreen.\r\n\ Brings\ in\ text\ and\ an\ enemy\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ When\ the\ player\ hit\ shift,\ take\ them\ to\ the\ start\ screen\r\n\ \r\n
+numComments=3
